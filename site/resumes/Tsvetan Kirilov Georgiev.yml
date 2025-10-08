@@ -1,1 +1,189 @@
+template: "online-cv"
+skin: ""
 
+# Personal Information
+basic_info:
+  first_name: Tsvetan
+  last_name: Kirilov Georgiev
+  motto: I'm always hungry
+  focus: Laser like
+  summary: |
+   
+I can say that I am a responsible, personable person with a great work ethic. I love challenges, self-improvement, and learning every day.
+  avatar: https://randomuser.me/api/portraits/men/52.jpg
+
+  email: tsvetan.georgiev891@gmail.com
+  phone: "642171377"
+  website: 
+  linkedin: linkedin.com/in/srtg96
+  github: https://github.com/SertoriusX
+  twitter: 
+  stack-overflow: #
+
+  languages:
+    - idiom: English
+      level: Professional
+    - idiom: Bulgarian
+      level: Native
+    - idiom: Spanish
+      level: Professional
+
+  interests:
+    - item: I train
+    - item: Eat
+    - item: Watching a movie
+    - item: Watching a series
+    - item: Listen to music
+    - item: Walking
+    - item: Cooking
+
+# Education
+education:
+- degree: Computer System and Tehnology
+university: University of Bulgarian
+    university_logo:https://www.swu.bg/bg/
+    time: 2015 - 2019
+    details: |
+     Studied Computer Systems and Technology, focusing on software engineering,
+      systems architecture, and emerging technologies. Gained experience with
+      programming languages, database design, and network systems.
+        - Specialized in systems programming and embedded technologies
+        - Completed final project on distributed computing performance
+        - Bullet point
+        - Bullet point
+
+ 
+
+  - degree: Cybersecurity
+    university: Coursera-Google
+    university_logo: https://www.coursera.org/browse/data-science
+    time: 2020-2021
+    details: |
+    Completed the Google Cybersecurity Professional Certificate through Coursera.
+      Focused on network security, system hardening, and incident response. 
+      Developed practical knowledge in identifying and mitigating security risks, 
+      managing security operations, and applying best practices in cloud and endpoint protection.
+        - Gained experience with SIEM tools, Linux, and SQL for threat analysis
+        - Completed hands-on projects simulating real-world cybersecurity challenges
+
+
+
+        
+ - degree: IT Automation with Python Professional
+    university: Coursera-Google 
+    university_logo: https://www.coursera.org/browse/data-science
+    time: 2021-2022
+    details: |
+        Completed the Google IT Automation with Python Professional Certificate through Coursera.
+      Learned how to automate system administration tasks, manage systems at scale, 
+      and use Python for troubleshooting and process optimization.
+        - Gained hands-on experience with Python scripting and automation tools
+        - Built projects involving Git, Linux command-line, and cloud-based workflows
+
+
+
+
+          
+ - degree: IT Automation with Python Professional
+    university: Coursera-Google 
+    university_logo: https://www.coursera.org/browse/data-science
+    time: 2022-2022
+    details: |
+        Completed the Google IT Automation with Python Professional Certificate through Coursera.
+      Learned how to automate system administration tasks, manage systems at scale, 
+      and use Python for troubleshooting and process optimization.
+        - Gained hands-on experience with Python scripting and automation tools
+        - Built projects involving Git, Linux command-line, and cloud-based workflows
+
+
+ - degree: Administracíon de servicios de internet  
+    university: Qantara Askaba S.L
+    university_logo: 
+    time: 2022-2023
+    details: |
+       Completed a professional program focused on Internet Service Administration.
+      Developed skills in managing web hosting environments, configuring servers,
+      and optimizing network and cloud infrastructure for performance and reliability.
+        - Gained practical experience in Linux server management and web services deployment
+        - Worked on real projects involving system monitoring and automation tools
+
+ 
+ 
+ - degree: Full Stack Developer 
+    university:4 Geeks Academy
+    university_logo: 
+    time: 2022-2023
+    details: |
+      Completed the Full Stack Developer Program at 4Geeks Academy, gaining hands-on
+      experience in both frontend and backend web development. Learned to design,
+      develop, and deploy responsive and scalable web applications.
+        - Mastered technologies including Python, JavaScript, React, and Flask
+        - Built multiple full-stack projects integrating APIs and cloud deployment
+      
+# Experience
+experiences:
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
+    company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
+
+ 
+
+# Projects
+projects:
+  intro: >
+    You can list your side projects or open source libraries in this
+    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Velocity
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+    - title: DevStudio
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: "A responsive website template designed to help web developers/designers market their services."
+
+    - title: Tempo
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: "A responsive website template designed to help startups promote their products or services and attract users & investors."
+
+    - title: Atom
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+    - title: Delta
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: "A responsive Bootstrap one-page theme designed to help app developers promote their mobile apps."
+
+# Skills
+skills:
+  toolset:
+    - name: Python & Django
+      level: 90%
+    - name: Python & Flask
+      level: 90%
+    - name: Javascript & jQuery
+      level: 80%
+    - name: React
+      level: 90%
+    - name: HTML5 & CSS
+      level: 95%
+ 
